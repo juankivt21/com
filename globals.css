@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: 44 100% 98%;
+  --foreground: 38 93% 43%;
+}
+
+body {
+  overflow-x: hidden;
+}
+
